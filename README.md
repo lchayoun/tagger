@@ -1,4 +1,4 @@
-[![Dependency Status](https://gemnasium.com/badges/github.com/lchayoun/tagger.svg)](https://gemnasium.com/github.com/lchayoun/tagger)
+[![Code Climate](https://codeclimate.com/github/lchayoun/tagger/badges/gpa.svg)](https://codeclimate.com/github/lchayoun/tagger)[![![Issue Count](https://codeclimate.com/github/lchayoun/tagger/badges/issue_count.svg)](https://codeclimate.com/github/lchayoun/tagger)[Dependency Status](https://gemnasium.com/badges/github.com/lchayoun/tagger.svg)](https://gemnasium.com/github.com/lchayoun/tagger)
 [![Stories in Ready](https://badge.waffle.io/lchayoun/tagger.png?label=ready&title=Ready)](https://waffle.io/lchayoun/tagger)
 [![Build Status](https://travis-ci.com/lchayoun/tagger.svg?token=A4MyqziDyh8ckAyyzjHv&branch=master)](https://travis-ci.com/lchayoun/tagger)
 
