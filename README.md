@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lchayoun/tagger.svg?token=A4MyqziDyh8ckAyyzjHv&branch=master)](https://travis-ci.com/lchayoun/tagger)
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
