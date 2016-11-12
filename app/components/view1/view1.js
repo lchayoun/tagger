@@ -10,7 +10,7 @@ angular.module('myApp.view1', ['ngRoute'])
   });
 }])
 
-.controller('View1Ctrl', ['$scope', '$document', function($scope, $document) {
+.controller('View1Ctrl', [function() {
 	var vm = this;
 	vm.text = "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla\n" + 
 				"bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla\n" + 
