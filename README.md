@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lchayoun/tagger.png?label=ready&title=Ready)](https://waffle.io/lchayoun/tagger)
 [![Build Status](https://travis-ci.com/lchayoun/tagger.svg?token=A4MyqziDyh8ckAyyzjHv&branch=master)](https://travis-ci.com/lchayoun/tagger)
 
 # angular-seed — the seed for AngularJS apps
